@@ -1,7 +1,6 @@
-Sinatra
+SportsFling
 =============
 
-Brought to you by Lighthouse Labs
 
 ## Getting Started
 
